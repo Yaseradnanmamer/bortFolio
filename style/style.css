@@ -634,7 +634,7 @@ section {
 
 @media (max-width:570px) {
     .blog .box {
-        min-width: 100%;
+        min-width: 99%;
     }
 }
 
