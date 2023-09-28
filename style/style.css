@@ -652,6 +652,7 @@ section {
 .contact .text {
     text-align: center;
     margin-bottom: 2rem;
+    overflow: hidden;
 }
 
 .contact .text h3 {
@@ -661,7 +662,6 @@ section {
     text-transform: uppercase;
     width: fit-content;
     margin: 0 auto;
-    overflow: hidden;
 }
 
 .contact .text span {
